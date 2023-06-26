@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"As a User, I have to success book a building, so that I can have an agreement.","As a User, I have be able to book a building","ERROR","2023-06-26T11:30:26.7761493+07:00[Asia/Bangkok]","0.0","2.23"
+"As a  User, I have to success login, So that I can be able to make an order","As a User, I have be able to login with my account","ERROR","2023-06-26T11:30:29.055583+07:00[Asia/Bangkok]","0.0","0.2"
+"As a New User, I have to success logout from my account, So that I can be able to login with another account","As a User, I have be able to logout from my account","ERROR","2023-06-26T11:30:29.2719757+07:00[Asia/Bangkok]","0.0","0.17"
+"As a New User, I have to success register account, So that I can be able to login","As a New User, I have be able to register or create new account","ERROR","2023-06-26T11:30:29.4592873+07:00[Asia/Bangkok]","0.0","0.17"
+"As a  User, I have to success search an office, So that I can be able to make an order","As a User, I have be able to search","ERROR","2023-06-26T11:30:29.6412743+07:00[Asia/Bangkok]","0.0","0.11"

@@ -1,0 +1,17 @@
+test\alta\stepdefenitions\BookingSteps.class
+test\alta\hooks\BaseDriverHooks.class
+test\alta\stepdefenitions\LogoutSteps.class
+test\alta\pages\ProfileScreen.class
+test\alta\pageobject\BasePageObject.class
+test\alta\pages\FrontScreen.class
+test\alta\pages\LoginScreen.class
+test\alta\pages\SearchScreen.class
+test\alta\stepdefenitions\SearchSteps.class
+test\alta\pages\ResultsearchScreen.class
+test\alta\pages\RegisterScreen.class
+CucumberTestSuite.class
+test\alta\pages\OfficeScreen.class
+test\alta\stepdefenitions\RegisterSteps.class
+test\alta\stepdefenitions\LoginSteps.class
+test\alta\pages\HomeScreen.class
+test\alta\pages\PaymentScreen.class
